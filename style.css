@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url(photo.jpg);
+    background-size: cover;
+    color: #fff;
+}
+
+.registion-form{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+}
+
+.registion-form{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40% 0;
+}
+
+.registion-form p{
+    font-size: 20;
+    margin: 15px 0;
+}
